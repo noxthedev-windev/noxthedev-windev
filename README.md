@@ -6,9 +6,6 @@
 
 i code stuff, mess with AI, make Windows mods because default is boring, and watch way too many sci-fi movies. probably awake at 3am debugging something that worked 5 minutes ago.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/80969068/234179258-4482e388-f800-4809-8f93-2441d2aaaac9.gif" />
-</p>
 
 ## 🤙 what to call me
 
