@@ -14,6 +14,15 @@ i make Windows lightweight, fast, and actually usable. NoxSYS is my main project
 - **Windows Mods** - because stock Windows is too heavy
 - **Coding** - Python, C#, C++, JS
 
+## 🎮 what i like
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=NoxTheDev&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Windows%20Modder%20%7C%20Minecraft%20Fan&descSize=15&descAlignY=55&animation=fadeIn" />
+</p>
+
+- **Minecraft** - mining and crafting since the alpha days
+- **SSH "lets not leak our hardwork" wallpaper** - you know the one
+
 ## 🔍 you can find me at
 
 [![GitHub](https://user-images.githubusercontent.com/80969068/205474459-a95b9c58-8e7d-43b0-a79c-388ce8a4a652.png)](https://github.com/noxthedev-windev)
@@ -35,5 +44,7 @@ i make Windows lightweight, fast, and actually usable. NoxSYS is my main project
 > 🔹 formerly known as **NoxNebula**, now upgraded to **NoxTheDev**
 > 🔹 runs Windows like it was meant to be - lightweight and clean
 > 🔹 probably has 50 terminal tabs open right now
+> 🔹 plays Minecraft more than they should
+> 🔹 the SSH wallpaper is a vibe
 
 ![](https://komarev.com/ghpvc/?username=noxthedev-windev)
