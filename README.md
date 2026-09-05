@@ -17,11 +17,12 @@ i make Windows lightweight, fast, and actually usable. NoxSYS is my main project
 ## 🎮 what i like
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=NoxTheDev&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Windows%20Modder%20%7C%20Minecraft%20Fan&descSize=15&descAlignY=55&animation=fadeIn" />
+  <img src="https://media.tenor.com/images/minecraftrunning/tenor.gif" width="400" />
 </p>
 
-- **Minecraft** - mining and crafting since the alpha days
-- **SSH "lets not leak our hardwork" wallpaper** - you know the one
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Minecraft_Logo_%28Large%29.png/800px-Minecraft_Logo_%28Large%29.png" width="300" />
+</p>
 
 ## 🔍 you can find me at
 
