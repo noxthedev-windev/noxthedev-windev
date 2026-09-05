@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=Hi+there%2C+I'm+NoxTheDev;Windows+modder+and+developer." alt="Typing SVG" />
 </p>
 
-i make Windows lightweight, fast, and actually usable. NTLite is my main project - stripping out bloat and customizing Windows images the way they should be.
+i make Windows lightweight, fast, and actually usable. NoxSYS is my main project - stripping out bloat and customizing Windows images the way they should be.
 
 ## 🤙 what to call me
 
@@ -10,7 +10,7 @@ i make Windows lightweight, fast, and actually usable. NTLite is my main project
 
 ## 🚀 what i do
 
-- **NTLite** - custom Windows images, debloating, optimization
+- **NoxSYS** - custom Windows images, debloating, optimization
 - **Windows Mods** - because stock Windows is too heavy
 - **Coding** - Python, C#, C++, JS
 
