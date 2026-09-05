@@ -28,11 +28,12 @@ i make Windows lightweight, fast, and actually usable. NoxSYS is my main project
 > if you want to ask something, just ask. don't just say hi.
 > english only please.
 
-<details>
-  <summary>fact</summary>
-  
-  formerly known as NoxNebula, now upgraded to NoxTheDev
-  
-</details>
+---
+
+### 📌 facts
+
+> 🔹 formerly known as **NoxNebula**, now upgraded to **NoxTheDev**
+> 🔹 runs Windows like it was meant to be - lightweight and clean
+> 🔹 probably has 50 terminal tabs open right now
 
 ![](https://komarev.com/ghpvc/?username=noxthedev-windev)
